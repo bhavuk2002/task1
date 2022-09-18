@@ -11,3 +11,5 @@ Then we create a express server in our app.js create one API and fetches the dat
 Make our computaions and return the result to the API.
 
 Necesssary status codes has also been used, and errors are also handled.
+
+API handler to use id localhost:3000/findNum , desired data must be passed in JSON format in body.
