@@ -13,7 +13,6 @@ const findClosest = (arr, target) => {
 	{
         mid = Math.floor((i + j) / 2);
 
-        console.log(mid)
 		if (arr[mid] == target){
             
 			return [arr[mid]];
